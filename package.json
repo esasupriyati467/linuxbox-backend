@@ -9,6 +9,7 @@
   "dependencies": {
     "ws": "^8.18.0",
     "node-pty": "^1.0.0",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "jose": "^5.9.6"
   }
 }
